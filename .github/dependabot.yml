@@ -11,7 +11,6 @@ updates:
     schedule:
       interval: "weekly"
       
-name: Python application
 on:
   push:
     branches: [ "main" ]
