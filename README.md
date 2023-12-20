@@ -1,2 +1,2 @@
 # Calculating-of-BMI
-Calculatinf of BMI with your weights
+Calculating of BMI with your weights
